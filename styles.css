@@ -76,6 +76,10 @@ li:hover { /* 011 */
     background-color: var(--clr-primary-green);
 }
 
+li:hover a { /* 012 */
+    color: var(--clr-neutrak-off-black);
+}
+
 h1, p, li { /* 003 */
     color: var(--clr-neutral-white);
 }
